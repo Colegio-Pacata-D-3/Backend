@@ -1,0 +1,16 @@
+D:\Documents\ColegioPacata-D3\ColegioPacataD-3\ColegioPacataD-3\bin\Debug\netcoreapp2.2\appsettings.Development.json
+D:\Documents\ColegioPacata-D3\ColegioPacataD-3\ColegioPacataD-3\bin\Debug\netcoreapp2.2\appsettings.json
+D:\Documents\ColegioPacata-D3\ColegioPacataD-3\ColegioPacataD-3\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+D:\Documents\ColegioPacata-D3\ColegioPacataD-3\ColegioPacataD-3\bin\Debug\netcoreapp2.2\ColegioPacataD-3.deps.json
+D:\Documents\ColegioPacata-D3\ColegioPacataD-3\ColegioPacataD-3\bin\Debug\netcoreapp2.2\ColegioPacataD-3.runtimeconfig.json
+D:\Documents\ColegioPacata-D3\ColegioPacataD-3\ColegioPacataD-3\bin\Debug\netcoreapp2.2\ColegioPacataD-3.runtimeconfig.dev.json
+D:\Documents\ColegioPacata-D3\ColegioPacataD-3\ColegioPacataD-3\bin\Debug\netcoreapp2.2\ColegioPacataD-3.dll
+D:\Documents\ColegioPacata-D3\ColegioPacataD-3\ColegioPacataD-3\bin\Debug\netcoreapp2.2\ColegioPacataD-3.pdb
+D:\Documents\ColegioPacata-D3\ColegioPacataD-3\ColegioPacataD-3\obj\Debug\netcoreapp2.2\ColegioPacataD-3.csprojAssemblyReference.cache
+D:\Documents\ColegioPacata-D3\ColegioPacataD-3\ColegioPacataD-3\obj\Debug\netcoreapp2.2\ColegioPacataD-3.RazorAssemblyInfo.cache
+D:\Documents\ColegioPacata-D3\ColegioPacataD-3\ColegioPacataD-3\obj\Debug\netcoreapp2.2\ColegioPacataD-3.RazorAssemblyInfo.cs
+D:\Documents\ColegioPacata-D3\ColegioPacataD-3\ColegioPacataD-3\obj\Debug\netcoreapp2.2\ColegioPacataD-3.AssemblyInfoInputs.cache
+D:\Documents\ColegioPacata-D3\ColegioPacataD-3\ColegioPacataD-3\obj\Debug\netcoreapp2.2\ColegioPacataD-3.AssemblyInfo.cs
+D:\Documents\ColegioPacata-D3\ColegioPacataD-3\ColegioPacataD-3\obj\Debug\netcoreapp2.2\ColegioPacataD-3.RazorTargetAssemblyInfo.cache
+D:\Documents\ColegioPacata-D3\ColegioPacataD-3\ColegioPacataD-3\obj\Debug\netcoreapp2.2\ColegioPacataD-3.dll
+D:\Documents\ColegioPacata-D3\ColegioPacataD-3\ColegioPacataD-3\obj\Debug\netcoreapp2.2\ColegioPacataD-3.pdb
